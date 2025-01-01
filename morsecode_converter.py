@@ -6,7 +6,7 @@ symbols = {
     "d": "-..",
     "e": ".",
     "f": "..-.",
-    "g": ".-",
+    "g": "--.",
     "h": "....",
     "i": "..",
     "j": ".---",
@@ -28,7 +28,7 @@ symbols = {
     "z": "--..",
 }
 
-#the user has to tyoe a word
+#the user has to type a word
 ask = input("type: ")
 
 
